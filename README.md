@@ -1,1 +1,1 @@
-# tp_git
+# Git & GitHub Lab
